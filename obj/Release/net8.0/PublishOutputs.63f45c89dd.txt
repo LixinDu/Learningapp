@@ -1,0 +1,7 @@
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/bin/Publish/learningapp
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/bin/Publish/appsettings.Development.json
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/bin/Publish/appsettings.json
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/bin/Publish/learningapp.dll
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/bin/Publish/learningapp.deps.json
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/bin/Publish/learningapp.pdb
