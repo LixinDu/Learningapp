@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/learningapp.csproj": {}
+    "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp-welcome/learningapp/learningapp.csproj": {}
   },
   "projects": {
-    "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/learningapp.csproj": {
+    "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp-welcome/learningapp/learningapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/learningapp.csproj",
+        "projectUniqueName": "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp-welcome/learningapp/learningapp.csproj",
         "projectName": "learningapp",
-        "projectPath": "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/learningapp.csproj",
+        "projectPath": "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp-welcome/learningapp/learningapp.csproj",
         "packagesPath": "/Users/ananas/.nuget/packages/",
-        "outputPath": "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/obj/",
+        "outputPath": "/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp-welcome/learningapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ananas/.nuget/NuGet/NuGet.Config"

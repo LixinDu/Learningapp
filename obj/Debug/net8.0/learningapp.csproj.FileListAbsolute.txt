@@ -28,3 +28,4 @@
 /Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/obj/Debug/net8.0/learningapp.pdb
 /Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/obj/Debug/net8.0/learningapp.genruntimeconfig.cache
 /Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/obj/Debug/net8.0/ref/learningapp.dll
+/Users/ananas/Documents/Program/Azure/AZ204/Alan/Code/Section2/learningapp/obj/Debug/net8.0/learningapp.sourcelink.json
